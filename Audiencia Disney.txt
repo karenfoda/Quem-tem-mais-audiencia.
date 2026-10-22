@@ -1,0 +1,30 @@
+
+tipo,nome,valor,unidade,detalhe,fonte
+demografia,idade_media,38,anos,Pessoas que gostam da marca Disney,Solsten
+demografia,publico_feminino,71,porcentagem,Pessoas que gostam da marca Disney,Solsten
+demografia,publico_masculino,18,porcentagem,Pessoas que gostam da marca Disney,Solsten
+demografia,preferiu_nao_informar_genero,8,porcentagem,Pessoas que gostam da marca Disney,Solsten
+demografia,outros_generos,1,porcentagem,Pessoas que gostam da marca Disney,Solsten
+idade,16-24,15,porcentagem,Distribuicao etaria,Solsten
+idade,25-34,29,porcentagem,Distribuicao etaria,Solsten
+idade,35-44,27,porcentagem,Distribuicao etaria,Solsten
+idade,45-64,24,porcentagem,Distribuicao etaria,Solsten
+idade,65-84,2,porcentagem,Distribuicao etaria,Solsten
+idade,85-99,0.1,porcentagem,Distribuicao etaria,Solsten
+idade,nao_informada,0.6,porcentagem,Distribuicao etaria,Solsten
+regiao,Estados Unidos,57,porcentagem,Distribuicao geografica,Solsten
+regiao,Reino Unido,7,porcentagem,Distribuicao geografica,Solsten
+regiao,Canada,4,porcentagem,Distribuicao geografica,Solsten
+regiao,Japao,3,porcentagem,Distribuicao geografica,Solsten
+regiao,Australia,2,porcentagem,Distribuicao geografica,Solsten
+regiao,Alemanha,2,porcentagem,Distribuicao geografica,Solsten
+regiao,Brasil,2,porcentagem,Distribuicao geografica,Solsten
+regiao,Mexico,1,porcentagem,Distribuicao geografica,Solsten
+regiao,Holanda,1,porcentagem,Distribuicao geografica,Solsten
+regiao,Franca,1,porcentagem,Distribuicao geografica,Solsten
+personalidade,Creative Adventurer,,perfil,Curioso e busca experiencias,Solsten
+personalidade,Sensitive Altruist,,perfil,Empatico e compassivo,Solsten
+personalidade,Confident Socializer,,perfil,Energetico e sociavel,Solsten
+personalidade,Visionary Achiever,,perfil,Inovador e orientado a objetivos,Solsten
+personalidade,Skeptical Individualist,,perfil,Independente e questionador,Solsten
+personalidade,Individualistic Free-Spirit,,perfil,Independente e pouco convencional,Solsten

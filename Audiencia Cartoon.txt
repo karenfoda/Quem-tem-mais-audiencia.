@@ -1,0 +1,89 @@
+tipo,nome,valor,unidade,detalhe,fonte
+demografia,audiencia_estimada,590794,pessoas,Estados Unidos,Rascasse
+demografia,publico_feminino,69.7,porcentagem,Estados Unidos,Rascasse
+demografia,publico_masculino,30.3,porcentagem,Estados Unidos,Rascasse
+demografia,idade_media,35,anos,Estados Unidos,Rascasse
+demografia,audiencia_mundial_estimada,3800000,pessoas,Estimativa mundial arredondada,Rascasse
+demografia,participacao_EUA_na_audiencia_mundial,15.6,porcentagem,Estimativa da plataforma,Rascasse
+tendencia,variacao_anual_buscas,4,porcentagem,Comparacao anual,Rascasse
+idade,16-19,33,porcentagem,Distribuicao etaria,Rascasse
+idade,20-29,20,porcentagem,Distribuicao etaria,Rascasse
+idade,30-39,15,porcentagem,Distribuicao etaria,Rascasse
+idade,40-49,19,porcentagem,Distribuicao etaria,Rascasse
+idade,50_ou_mais,13,porcentagem,Distribuicao etaria,Rascasse
+regiao,Georgia,30000,pessoas_estimadas,afinidade 1.43x,Rascasse
+regiao,Maryland,10000,pessoas_estimadas,afinidade 1.38x,Rascasse
+regiao,Mississippi,7000,pessoas_estimadas,afinidade 1.38x,Rascasse
+regiao,Alabama,10000,pessoas_estimadas,afinidade 1.36x,Rascasse
+regiao,Louisiana,10000,pessoas_estimadas,afinidade 1.35x,Rascasse
+regiao,Florida,50000,pessoas_estimadas,afinidade 1.27x,Rascasse
+regiao,Pennsylvania,20000,pessoas_estimadas,afinidade 1.20x,Rascasse
+regiao,Texas,60000,pessoas_estimadas,afinidade 1.19x,Rascasse
+regiao,New York,40000,pessoas_estimadas,afinidade 1.16x,Rascasse
+regiao,South Carolina,10000,pessoas_estimadas,afinidade 1.16x,Rascasse
+regiao,North Carolina,20000,pessoas_estimadas,afinidade 1.15x,Rascasse
+regiao,Oklahoma,7000,pessoas_estimadas,afinidade 1.15x,Rascasse
+regiao,Arkansas,5000,pessoas_estimadas,afinidade 1.13x,Rascasse
+regiao,Kentucky,10000,pessoas_estimadas,afinidade 1.12x,Rascasse
+regiao,West Virginia,3000,pessoas_estimadas,afinidade 1.12x,Rascasse
+regiao,Illinois,20000,pessoas_estimadas,afinidade 1.11x,Rascasse
+regiao,New Jersey,20000,pessoas_estimadas,afinidade 1.11x,Rascasse
+regiao,Virginia,20000,pessoas_estimadas,afinidade 1.11x,Rascasse
+regiao,Indiana,20000,pessoas_estimadas,afinidade 1.11x,Rascasse
+regiao,Ohio,20000,pessoas_estimadas,afinidade 1.09x,Rascasse
+regiao,Arizona,10000,pessoas_estimadas,afinidade 1.09x,Rascasse
+regiao,Tennessee,10000,pessoas_estimadas,afinidade 1.07x,Rascasse
+regiao,Nevada,6000,pessoas_estimadas,afinidade 1.07x,Rascasse
+regiao,Michigan,20000,pessoas_estimadas,afinidade 1.06x,Rascasse
+regiao,Connecticut,6000,pessoas_estimadas,afinidade 1.06x,Rascasse
+regiao,Delaware,2000,pessoas_estimadas,afinidade 1.03x,Rascasse
+regiao,California,60000,pessoas_estimadas,afinidade 1.01x,Rascasse
+regiao,Missouri,9000,pessoas_estimadas,afinidade 1.00x,Rascasse
+regiao,Rhode Island,2000,pessoas_estimadas,afinidade 0.95x,Rascasse
+regiao,Massachusetts,10000,pessoas_estimadas,afinidade 0.94x,Rascasse
+regiao,Hawaii,2000,pessoas_estimadas,afinidade 0.94x,Rascasse
+regiao,Kansas,4000,pessoas_estimadas,afinidade 0.90x,Rascasse
+regiao,New Mexico,3000,pessoas_estimadas,afinidade 0.89x,Rascasse
+regiao,Alaska,1000,pessoas_estimadas,afinidade 0.87x,Rascasse
+regiao,Iowa,4000,pessoas_estimadas,afinidade 0.86x,Rascasse
+regiao,District of Columbia,2000,pessoas_estimadas,afinidade 0.86x,Rascasse
+regiao,Washington,10000,pessoas_estimadas,afinidade 0.85x,Rascasse
+regiao,Wisconsin,8000,pessoas_estimadas,afinidade 0.85x,Rascasse
+regiao,Nebraska,3000,pessoas_estimadas,afinidade 0.85x,Rascasse
+regiao,Oregon,6000,pessoas_estimadas,afinidade 0.83x,Rascasse
+regiao,Minnesota,7000,pessoas_estimadas,afinidade 0.81x,Rascasse
+regiao,North Dakota,1000,pessoas_estimadas,afinidade 0.81x,Rascasse
+regiao,Colorado,7000,pessoas_estimadas,afinidade 0.80x,Rascasse
+regiao,South Dakota,1000,pessoas_estimadas,afinidade 0.77x,Rascasse
+regiao,Utah,4000,pessoas_estimadas,afinidade 0.75x,Rascasse
+regiao,New Hampshire,2000,pessoas_estimadas,afinidade 0.75x,Rascasse
+regiao,Maine,2000,pessoas_estimadas,afinidade 0.73x,Rascasse
+regiao,Idaho,2000,pessoas_estimadas,afinidade 0.68x,Rascasse
+regiao,Vermont,1000,pessoas_estimadas,afinidade 0.68x,Rascasse
+regiao,Montana,1000,pessoas_estimadas,afinidade 0.60x,Rascasse
+interesse,The Green Mile,164.13,multiplicador,Filmes e TV,Rascasse
+interesse,Commodores,36.39,multiplicador,Musica,Rascasse
+interesse,Drain cleaner,33.62,multiplicador,Casa e jardim,Rascasse
+interesse,One-Punch Man,25.01,multiplicador,Literatura e manga,Rascasse
+interesse,Dionne Warwick,20.00,multiplicador,Musica,Rascasse
+interesse,Chaka Khan,19.19,multiplicador,Musica,Rascasse
+interesse,Concept art,18.23,multiplicador,Arte e cultura,Rascasse
+interesse,Suki Waterhouse,17.85,multiplicador,Moda,Rascasse
+interesse,Quincy Jones,14.68,multiplicador,Musica,Rascasse
+interesse,Pierce Brosnan,12.78,multiplicador,Filmes e TV,Rascasse
+interesse,Graphic novel,12.16,multiplicador,Literatura,Rascasse
+interesse,Charlize Theron,10.27,multiplicador,Filmes e TV,Rascasse
+interesse,Anime and manga fandom,8.31,multiplicador,Literatura e manga,Rascasse
+interesse,DC Comics,7.14,multiplicador,Quadrinhos,Rascasse
+interesse,Collectible card game,7.00,multiplicador,Jogos,Rascasse
+interesse,Digital art,6.41,multiplicador,Arte digital,Rascasse
+interesse,Virtual reality,5.18,multiplicador,Tecnologia,Rascasse
+interesse,Pokemon,4.33,multiplicador,Jogos,Rascasse
+interesse,Pizza Hut,3.31,multiplicador,Alimentacao,Rascasse
+interesse,Subway,3.12,multiplicador,Alimentacao,Rascasse
+personalidade,Patriotism,1.96,multiplicador,Conservadorismo,Rascasse
+personalidade,Convenience Orientation,1.57,multiplicador,Conforto e praticidade,Rascasse
+personalidade,Urban Lifestyle,1.56,multiplicador,Estilo urbano,Rascasse
+personalidade,Luxury Orientation,0.64,multiplicador,Orientacao ao luxo,Rascasse
+personalidade,Sports Activity,0.77,multiplicador,Atividade esportiva,Rascasse
+personalidade,Pet Ownership,0.80,multiplicador,Possuir animais,Rascasse

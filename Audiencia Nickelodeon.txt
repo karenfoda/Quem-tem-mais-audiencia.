@@ -1,0 +1,93 @@
+
+tipo,nome,valor,unidade,detalhe,fonte
+demografia,audiencia_estimada,25900000,pessoas,Estados Unidos,Rascasse Q3 2026
+demografia,publico_feminino,62.4,porcentagem,Estados Unidos,Rascasse Q3 2026
+demografia,publico_masculino,37.6,porcentagem,Estados Unidos,Rascasse Q3 2026
+demografia,idade_media,33.1,anos,Estados Unidos,Rascasse Q3 2026
+demografia,audiencia_mundial_estimada,62100000,pessoas,Estimativa mundial,Rascasse Q3 2026
+demografia,participacao_EUA_na_audiencia_mundial,41.7,porcentagem,Distribuicao mundial,Rascasse
+tendencia,variacao_anual_buscas,-1,porcentagem,Variacao em 12 meses,Rascasse
+idade,16-24,36,porcentagem,Distribuicao etaria,Rascasse
+idade,25-34,25,porcentagem,Distribuicao etaria,Rascasse
+idade,35-44,17,porcentagem,Distribuicao etaria,Rascasse
+idade,45-54,12,porcentagem,Distribuicao etaria,Rascasse
+idade,55_ou_mais,9,porcentagem,Distribuicao etaria,Rascasse
+regiao,Mississippi,500000,pessoas_estimadas,afinidade 2.04x,Rascasse
+regiao,Louisiana,600000,pessoas_estimadas,afinidade 1.61x,Rascasse
+regiao,Georgia,1500000,pessoas_estimadas,afinidade 1.56x,Rascasse
+regiao,Alabama,600000,pessoas_estimadas,afinidade 1.49x,Rascasse
+regiao,New Jersey,1000000,pessoas_estimadas,afinidade 1.48x,Rascasse
+regiao,New York,2000000,pessoas_estimadas,afinidade 1.44x,Rascasse
+regiao,Maryland,600000,pessoas_estimadas,afinidade 1.33x,Rascasse
+regiao,South Carolina,600000,pessoas_estimadas,afinidade 1.31x,Rascasse
+regiao,Texas,2000000,pessoas_estimadas,afinidade 1.27x,Rascasse
+regiao,Arkansas,300000,pessoas_estimadas,afinidade 1.24x,Rascasse
+regiao,Pennsylvania,1000000,pessoas_estimadas,afinidade 1.21x,Rascasse
+regiao,North Carolina,1000000,pessoas_estimadas,afinidade 1.16x,Rascasse
+regiao,Connecticut,300000,pessoas_estimadas,afinidade 1.16x,Rascasse
+regiao,Florida,2000000,pessoas_estimadas,afinidade 1.15x,Rascasse
+regiao,Indiana,600000,pessoas_estimadas,afinidade 1.13x,Rascasse
+regiao,Delaware,80000,pessoas_estimadas,afinidade 1.10x,Rascasse
+regiao,Kentucky,400000,pessoas_estimadas,afinidade 1.09x,Rascasse
+regiao,West Virginia,200000,pessoas_estimadas,afinidade 1.08x,Rascasse
+regiao,Rhode Island,90000,pessoas_estimadas,afinidade 1.07x,Rascasse
+regiao,Arizona,600000,pessoas_estimadas,afinidade 1.06x,Rascasse
+regiao,Maine,100000,pessoas_estimadas,afinidade 1.06x,Rascasse
+regiao,Michigan,800000,pessoas_estimadas,afinidade 1.05x,Rascasse
+regiao,Ohio,900000,pessoas_estimadas,afinidade 1.04x,Rascasse
+regiao,Virginia,700000,pessoas_estimadas,afinidade 1.04x,Rascasse
+regiao,Oklahoma,300000,pessoas_estimadas,afinidade 1.03x,Rascasse
+regiao,Illinois,1000000,pessoas_estimadas,afinidade 1.02x,Rascasse
+regiao,Tennessee,600000,pessoas_estimadas,afinidade 1.01x,Rascasse
+regiao,Massachusetts,500000,pessoas_estimadas,afinidade 0.97x,Rascasse
+regiao,Missouri,500000,pessoas_estimadas,afinidade 0.96x,Rascasse
+regiao,Alaska,50000,pessoas_estimadas,afinidade 0.96x,Rascasse
+regiao,California,3000000,pessoas_estimadas,afinidade 0.95x,Rascasse
+regiao,Nevada,200000,pessoas_estimadas,afinidade 0.93x,Rascasse
+regiao,District of Columbia,50000,pessoas_estimadas,afinidade 0.92x,Rascasse
+regiao,New Mexico,100000,pessoas_estimadas,afinidade 0.83x,Rascasse
+regiao,Wisconsin,400000,pessoas_estimadas,afinidade 0.79x,Rascasse
+regiao,Minnesota,300000,pessoas_estimadas,afinidade 0.77x,Rascasse
+regiao,Kansas,200000,pessoas_estimadas,afinidade 0.75x,Rascasse
+regiao,South Dakota,50000,pessoas_estimadas,afinidade 0.75x,Rascasse
+regiao,Washington,400000,pessoas_estimadas,afinidade 0.74x,Rascasse
+regiao,Iowa,200000,pessoas_estimadas,afinidade 0.73x,Rascasse
+regiao,Oregon,200000,pessoas_estimadas,afinidade 0.71x,Rascasse
+regiao,New Hampshire,70000,pessoas_estimadas,afinidade 0.71x,Rascasse
+regiao,Utah,200000,pessoas_estimadas,afinidade 0.70x,Rascasse
+regiao,Nebraska,100000,pessoas_estimadas,afinidade 0.69x,Rascasse
+regiao,North Dakota,40000,pessoas_estimadas,afinidade 0.69x,Rascasse
+regiao,Hawaii,70000,pessoas_estimadas,afinidade 0.66x,Rascasse
+regiao,Vermont,30000,pessoas_estimadas,afinidade 0.65x,Rascasse
+regiao,Colorado,300000,pessoas_estimadas,afinidade 0.63x,Rascasse
+regiao,Idaho,90000,pessoas_estimadas,afinidade 0.60x,Rascasse
+regiao,Montana,50000,pessoas_estimadas,afinidade 0.58x,Rascasse
+regiao,Estados Unidos,41.7,porcentagem,Participacao na audiencia mundial,Rascasse
+regiao,Reino Unido,5.6,porcentagem,Participacao na audiencia mundial,Rascasse
+regiao,Mexico,5.1,porcentagem,Participacao na audiencia mundial,Rascasse
+interesse,Barbie,3.20,multiplicador,Filmes e TV,Rascasse
+interesse,Scooby-Doo,2.82,multiplicador,Filmes e TV,Rascasse
+interesse,Sabrina Carpenter,2.71,multiplicador,Musica e radio,Rascasse
+interesse,Zendaya,2.31,multiplicador,Filmes e TV,Rascasse
+interesse,Millie Bobby Brown,2.23,multiplicador,Filmes e TV,Rascasse
+interesse,Spirit Halloween,2.13,multiplicador,Infantil e familia,Rascasse
+interesse,Humour,2.07,multiplicador,Literatura,Rascasse
+interesse,Ariana Grande,2.01,multiplicador,Musica e radio,Rascasse
+interesse,Stranger Things,1.91,multiplicador,Filmes e TV,Rascasse
+interesse,Disneyland,1.80,multiplicador,Viagens e lazer,Rascasse
+interesse,Harry Potter,1.77,multiplicador,Filmes e TV,Rascasse
+interesse,Video games,1.69,multiplicador,Jogos,Rascasse
+interesse,Beauty,1.62,multiplicador,Beleza e bem-estar,Rascasse
+interesse,Comedy movies,1.62,multiplicador,Filmes e TV,Rascasse
+interesse,Taco Bell,1.59,multiplicador,Alimentacao,Rascasse
+interesse,Taylor Swift,1.56,multiplicador,Musica e radio,Rascasse
+interesse,Video,1.53,multiplicador,Filmes e TV,Rascasse
+interesse,Movies,1.51,multiplicador,Filmes e TV,Rascasse
+interesse,Computers,1.51,multiplicador,Tecnologia e eletronicos,Rascasse
+interesse,Photography,1.50,multiplicador,Arte e cultura,Rascasse
+personalidade,Extroversion,1.29,multiplicador,Grupo THRILL,Rascasse
+personalidade,Pet Ownership,1.23,multiplicador,Grupo JOY,Rascasse
+personalidade,Individualism,1.16,multiplicador,Grupo JOY,Rascasse
+personalidade,Sustainability,0.72,multiplicador,Grupo BALANCE,Rascasse
+personalidade,Quality Awareness,0.73,multiplicador,Grupo PREMIUM,Rascasse
+personalidade,DIY Mentality,0.78,multiplicador,Grupo THRILL,Rascasse
