@@ -10,7 +10,7 @@ st.set_page_config(
 
 st.title("📺 Qual canal tem mais audiência?")
 st.write(
-    "**Realizado por:** Karen Farias Menezes, Mariana Marchiori e Luiza Silva Romeiro.\n"
+    "**Realizado por:** Karen Farias Menezes, Victor Mattheo e Rhyan Lopes.\n"
     "\n**Orientado por:** Prof. Felipe Garbin\n",
     "\nEste projeto analisa a audiência dos principais canais infantis "
     "(Disney, Nickelodeon e Cartoon Network), comparando dados demográficos, "
